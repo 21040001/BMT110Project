@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09447721-47D3-4895-9E19-3FB04A20C3A5}|Rezerve\\Rezerve.csproj|C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\rezerve\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{09447721-47D3-4895-9E19-3FB04A20C3A5}|Rezerve\\Rezerve.csproj|solutionrelative:rezerve\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09447721-47D3-4895-9E19-3FB04A20C3A5}|Rezerve\\Rezerve.csproj|C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\rezerve\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09447721-47D3-4895-9E19-3FB04A20C3A5}|Rezerve\\Rezerve.csproj|solutionrelative:rezerve\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09447721-47D3-4895-9E19-3FB04A20C3A5}|Rezerve\\Rezerve.csproj|C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\rezerve\\rezerves.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{09447721-47D3-4895-9E19-3FB04A20C3A5}|Rezerve\\Rezerve.csproj|solutionrelative:rezerve\\rezerves.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09447721-47D3-4895-9E19-3FB04A20C3A5}|Rezerve\\Rezerve.csproj|C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\rezerve\\rezervemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09447721-47D3-4895-9E19-3FB04A20C3A5}|Rezerve\\Rezerve.csproj|solutionrelative:rezerve\\rezervemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09447721-47D3-4895-9E19-3FB04A20C3A5}|Rezerve\\Rezerve.csproj|c:\\users\\abdur\\onedrive\\masa\u00FCst\u00FC\\rezerve\\rezerve\\rezerves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09447721-47D3-4895-9E19-3FB04A20C3A5}|Rezerve\\Rezerve.csproj|solutionrelative:rezerve\\rezerves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09447721-47D3-4895-9E19-3FB04A20C3A5}|Rezerve\\Rezerve.csproj|c:\\users\\abdur\\onedrive\\masa\u00FCst\u00FC\\rezerve\\rezerve\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09447721-47D3-4895-9E19-3FB04A20C3A5}|Rezerve\\Rezerve.csproj|solutionrelative:rezerve\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09447721-47D3-4895-9E19-3FB04A20C3A5}|Rezerve\\Rezerve.csproj|c:\\users\\abdur\\onedrive\\masa\u00FCst\u00FC\\rezerve\\rezerve\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{09447721-47D3-4895-9E19-3FB04A20C3A5}|Rezerve\\Rezerve.csproj|solutionrelative:rezerve\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09447721-47D3-4895-9E19-3FB04A20C3A5}|Rezerve\\Rezerve.csproj|C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\rezerve\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{09447721-47D3-4895-9E19-3FB04A20C3A5}|Rezerve\\Rezerve.csproj|solutionrelative:rezerve\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 118,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\Rezerve\\Menu.xaml",
+              "RelativeDocumentMoniker": "Rezerve\\Menu.xaml",
+              "ToolTip": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\Rezerve\\Menu.xaml",
+              "RelativeToolTip": "Rezerve\\Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T14:51:21.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\Rezerve\\Menu.cs",
+              "RelativeDocumentMoniker": "Rezerve\\Menu.cs",
+              "ToolTip": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\Rezerve\\Menu.cs",
+              "RelativeToolTip": "Rezerve\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:50:38.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rezerves.cs",
+              "DocumentMoniker": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\Rezerve\\Rezerves.cs",
+              "RelativeDocumentMoniker": "Rezerve\\Rezerves.cs",
+              "ToolTip": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\Rezerve\\Rezerves.cs",
+              "RelativeToolTip": "Rezerve\\Rezerves.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAkwI0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:06:23.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RezerveModel.cs",
+              "DocumentMoniker": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\Rezerve\\RezerveModel.cs",
+              "RelativeDocumentMoniker": "Rezerve\\RezerveModel.cs",
+              "ToolTip": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\Rezerve\\RezerveModel.cs",
+              "RelativeToolTip": "Rezerve\\RezerveModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:10:19.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\Rezerve\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Rezerve\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\Rezerve\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Rezerve\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowIIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:06:54.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rezerves.xaml",
+              "DocumentMoniker": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\Rezerve\\Rezerves.xaml",
+              "RelativeDocumentMoniker": "Rezerve\\Rezerves.xaml",
+              "ToolTip": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\Rezerve\\Rezerves.xaml",
+              "RelativeToolTip": "Rezerve\\Rezerves.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T13:24:23.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\Rezerve\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Rezerve\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\Rezerve\\MainWindow.xaml",
+              "RelativeToolTip": "Rezerve\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T18:39:08.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\Rezerve\\App.xaml",
+              "RelativeDocumentMoniker": "Rezerve\\App.xaml",
+              "ToolTip": "C:\\Users\\abdur\\OneDrive\\Masa\u00FCst\u00FC\\Rezerve\\Rezerve\\App.xaml",
+              "RelativeToolTip": "Rezerve\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T09:38:14.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
