@@ -38,7 +38,7 @@ BMT110Project/
 
 - `C#` — Ana programlama dili
 - `WPF` — Grafik kullanıcı arayüzü için
-- `SQL Server` veya `SQLite` — Veritabanı altyapısı
+- `SQL Server` — Veritabanı altyapısı
 - `XAML` — Arayüz tasarımı
 
 ---
@@ -73,10 +73,9 @@ BMT110Project/
 
 ## 📷 Ekran Görüntüleri
 
-> Ekran görüntüsü eklemek istersen:
-```markdown
-![Ana Ekran](screenshots/main_screen.png)
-```
+![Ana Ekran Görüntüsü](screens/1.png)
+![MainWindow](screens/2.png)
+![Menu](screens/3.png)
 
 ---
 
