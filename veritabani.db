@@ -1,0 +1,20 @@
+CREATE TABLE rezerves (
+    id INT IDENTITY(1,1) PRIMARY KEY,
+    name NVARCHAR(50) NOT NULL,
+    surname NVARCHAR(50) NOT NULL,
+    day NVARCHAR(20) NOT NULL,
+    hour NVARCHAR(10) NOT NULL,
+    doctor NVARCHAR(50) NOT NULL,
+    id_user BIGINT NOT NULL,
+    rezerve_type NVARCHAR(20) NOT NULL
+);
+CREATE TABLE doctors (
+    id INT IDENTITY(1,1) PRIMARY KEY,
+    name NVARCHAR(50) NOT NULL,
+    surname NVARCHAR(50) NOT NULL,
+    tc_number BIGINT NOT NULL UNIQUE
+);
+INSERT INTO doctors (name, surname, tc_number) VALUES ('Ahmet', 'Yılmaz', 12345678901);
+INSERT INTO doctors (name, surname, tc_number) VALUES ('Mehmet', 'Demir', 23456789012);
+INSERT INTO doctors (name, surname, tc_number) VALUES ('Ayşe', 'Kara', 34567890123);
+INSERT INTO doctors (name, surname, tc_number) VALUES ('Fatma', 'Şahin', 45678901234);
