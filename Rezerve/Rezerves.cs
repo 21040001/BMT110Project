@@ -9,7 +9,7 @@ namespace Rezerve
 {
     public partial class Rezerves : Window
     {
-        string connectionString = "Server=localhost\\SQLEXPRESS,1433;Database=HastaneRS;User Id=sa;Password=12345;Encrypt=True;TrustServerCertificate=True;";
+        string connectionString = "Server=mssql-197313-0.cloudclusters.net,19998;Database=Rezerve;User Id=admin;Password=D12345678d;Encrypt=True;TrustServerCertificate=True;";
         private string secilenTip = "";
         public Rezerves()
         {
